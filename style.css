@@ -519,6 +519,7 @@ background-color: var(--bg-color);
         padding-bottom: 7rem;
         grid-template-columns: repeat(1,1fr);
         margin: 0 5rem;
+        margin-left:5rem;
     }
     .skills-box{
         grid-template-columns: repeat(2,1fr);
